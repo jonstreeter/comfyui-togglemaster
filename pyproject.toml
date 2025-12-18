@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-togglemaster"
+version = "1.0.0"
+description = "Wireless node toggle control for ComfyUI - control any nodes by title/color matching with radio-button restrictions"
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.urls]
+Repository = "https://github.com/jonstreeter/comfyui-togglemaster"
+
+[tool.comfy]
+PublisherId = "jonstreeter"
+DisplayName = "Wireless Toggle Master"
+Icon = ""
