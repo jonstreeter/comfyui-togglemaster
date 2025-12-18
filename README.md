@@ -10,6 +10,12 @@ Control any nodes in your ComfyUI workflow by **title** or **color** matching. T
 - 📦 **Subgraph Support** - Works across nested subgraphs
 - 🔘 **Radio Mode** - Optional "max one" or "always one" restriction for exclusive selection
 
+## Sample Workflow
+
+![Sample Workflow](sample_workflow.png)
+
+*Example: Using Wireless Master Toggle to switch between fruit options with "always one" restriction*
+
 ## Installation
 
 ### ComfyUI Manager (Recommended)
