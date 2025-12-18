@@ -16,6 +16,8 @@ Control any nodes in your ComfyUI workflow by **title** or **color** matching. T
 
 *Example: Using Wireless Master Toggle to switch between fruit options with "always one" restriction*
 
+📥 **[Download Sample Workflow](workflows/Toggle%20Master%20Sample.json)** - Load this into ComfyUI to try it out!
+
 ## Installation
 
 ### ComfyUI Manager (Recommended)
