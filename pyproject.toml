@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-togglemaster"
-version = "1.0.0"
+version = "1.1.0"
 description = "Wireless node toggle control for ComfyUI - control any nodes by title/color matching with radio-button restrictions"
 license = "MIT"
 readme = "README.md"
